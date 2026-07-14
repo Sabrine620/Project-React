@@ -1,0 +1,18 @@
+Project structure:::::::
+APP
+  -Header
+  -Main
+    -home
+      -header_home
+      -card
+      -card
+      -card
+    -courses
+      -courses_header
+      -card_courses
+      -card_courses
+      -card_courses
+    -Review
+  -Footer
+      
+    
